@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    /*box-sizing: border-box;*/
+}
+
+.header {
+    margin: 5px;
+    background-color: rgb(205, 201, 247);
+    padding: 15px;
+    height: 5vh;
+
+}
+.footer {
+    margin: 5px;
+    background-color: lightcyan;
+    padding: 15px;
+    height: 5vh;
+
+}
+.bodyColumn {
+    display: flex;
+    height: 85vh;
+    
+}
+.column {
+    margin: 5px;
+    background-color: rgb(133, 131, 131);
+    /*padding: 15px;*/
+}
+.leftColumn {
+    /*float: block;*/
+    width: 80vw; 
+    display: flex;
+    overflow-x: scroll;
+    
+}
+.rightColumn {
+    /*float: right;*/
+    width: 20vw;
+    background-color: rgb(248, 232, 211);
+}
+.columnsWithTasks {
+    margin: 5px;
+    border: 2px solid black;
+    min-width: 50%;
+}
+.column1 {
+    background-color: rgb(116, 103, 255)
+}
+.column2 {
+    background-color: rgb(97, 87, 202)
+}
+.column3{
+    background-color: rgb(61, 54, 133)
+}
+.column4{
+    background-color: rgb(48, 42, 104)
+}
+.column5{
+    background-color: rgb(51, 47, 105)
+}
