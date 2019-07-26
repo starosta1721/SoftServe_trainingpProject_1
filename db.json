@@ -1,0 +1,259 @@
+
+  {
+    "guid": "60f8b226-f3c8-4fe1-be44-b2498f808894",
+    "courseTitle": "REACT",
+    "modules": [
+      {
+        "moduleGuid": "647b9105-b687-4b8b-b794-8b62c81e2f59",
+        "moduleTitle": "Graciela",
+        "moduleStatus": {
+          "key": "TO DO",
+          "displayName": "TO DO"
+        }
+      },
+      {
+        "moduleGuid": "0ad86125-8383-46f9-82fe-731770a768fe",
+        "moduleTitle": "Castillo",
+        "moduleStatus": {
+          "key": "DONE",
+          "displayName": "DONE"
+        }
+      },
+      {
+        "moduleGuid": "6355ac7b-ab25-4290-9ae8-c318d7b8960c",
+        "moduleTitle": "Lawson",
+        "moduleStatus": {
+          "key": "Arguing",
+          "displayName": "Arguing"
+        }
+      },
+      {
+        "moduleGuid": "f91f8b62-8a4c-41f7-a386-6a53dd17f2ac",
+        "moduleTitle": "Erickson",
+        "moduleStatus": {
+          "key": "DONE",
+          "displayName": "DONE"
+        }
+      },
+      {
+        "moduleGuid": "394232bb-3772-43dc-98f7-50597e64f122",
+        "moduleTitle": "Constance",
+        "moduleStatus": {
+          "key": "TO DO",
+          "displayName": "TO DO"
+        }
+      },
+      {
+        "moduleGuid": "e38d85c5-9db7-43ad-8b82-9f473d80ab8e",
+        "moduleTitle": "Keri",
+        "moduleStatus": {
+          "key": "Arguing",
+          "displayName": "Arguing"
+        }
+      },
+      {
+        "moduleGuid": "ad150e91-5b39-4819-a193-cebfa7c0470c",
+        "moduleTitle": "Ophelia",
+        "moduleStatus": {
+          "key": "Arguing",
+          "displayName": "Arguing"
+        }
+      },
+      {
+        "moduleGuid": "1b0bc239-3a0d-493f-a599-87e5a0ba2a9c",
+        "moduleTitle": "Araceli",
+        "moduleStatus": {
+          "key": "In Progress",
+          "displayName": "In Progress"
+        }
+      },
+      {
+        "moduleGuid": "dfb35561-45bd-47a0-b3b1-09d03ddc39c2",
+        "moduleTitle": "Frances",
+        "moduleStatus": {
+          "key": "TO DO",
+          "displayName": "TO DO"
+        }
+      },
+      {
+        "moduleGuid": "98b5f328-9ef3-40da-9dd9-89cd87a16269",
+        "moduleTitle": "Dixie",
+        "moduleStatus": {
+          "key": "In review",
+          "displayName": "In review"
+        }
+      }
+    ]
+  },
+  {
+    "guid": "848e2bf7-17a5-40b2-a735-c97ee7763371",
+    "courseTitle": "NODE",
+    "modules": [
+      {
+        "moduleGuid": "a625a21b-cb03-48d7-bd40-f1aebbd90dbd",
+        "moduleTitle": "Pace",
+        "moduleStatus": {
+          "key": "DONE",
+          "displayName": "DONE"
+        }
+      },
+      {
+        "moduleGuid": "8394aac0-24dd-454d-ac8a-338d82015fb1",
+        "moduleTitle": "Aimee",
+        "moduleStatus": {
+          "key": "Arguing",
+          "displayName": "Arguing"
+        }
+      },
+      {
+        "moduleGuid": "d3d05d37-dbdc-4d0b-a5f1-bf5159f86df0",
+        "moduleTitle": "Copeland",
+        "moduleStatus": {
+          "key": "In Progress",
+          "displayName": "In Progress"
+        }
+      },
+      {
+        "moduleGuid": "f53ee7f3-46ee-42a1-9909-0f7cde049040",
+        "moduleTitle": "Maura",
+        "moduleStatus": {
+          "key": "In Progress",
+          "displayName": "In Progress"
+        }
+      },
+      {
+        "moduleGuid": "1ca06234-c568-4e4d-a8fd-8d0554c36dff",
+        "moduleTitle": "Meredith",
+        "moduleStatus": {
+          "key": "DONE",
+          "displayName": "DONE"
+        }
+      },
+      {
+        "moduleGuid": "107dd5b7-7c31-4a87-a519-22c22df95a57",
+        "moduleTitle": "Ingram",
+        "moduleStatus": {
+          "key": "Arguing",
+          "displayName": "Arguing"
+        }
+      },
+      {
+        "moduleGuid": "4bc9a6b6-cba9-4686-925b-d4ab19876c4e",
+        "moduleTitle": "Brittany",
+        "moduleStatus": {
+          "key": "In review",
+          "displayName": "In review"
+        }
+      },
+      {
+        "moduleGuid": "79e55db4-e8f0-4b4f-b477-6344490f1fd3",
+        "moduleTitle": "Hayden",
+        "moduleStatus": {
+          "key": "TO DO",
+          "displayName": "TO DO"
+        }
+      },
+      {
+        "moduleGuid": "34520c8f-e7bd-4978-8601-fd7e1945e496",
+        "moduleTitle": "Bishop",
+        "moduleStatus": {
+          "key": "In review",
+          "displayName": "In review"
+        }
+      },
+      {
+        "moduleGuid": "76639bf8-1f3a-4dce-bd3d-da94b379793e",
+        "moduleTitle": "Kelly",
+        "moduleStatus": {
+          "key": "Arguing",
+          "displayName": "Arguing"
+        }
+      }
+    ]
+  },
+  {
+    "guid": "e730f3a2-d676-440e-95a4-f2d057e75a92",
+    "courseTitle": "NODE",
+    "modules": [
+      {
+        "moduleGuid": "9d586f64-66f7-449c-abc0-9f3a2238844a",
+        "moduleTitle": "Priscilla",
+        "moduleStatus": {
+          "key": "TO DO",
+          "displayName": "TO DO"
+        }
+      },
+      {
+        "moduleGuid": "a4d44a77-33f4-4820-98b1-021a5a62ca6e",
+        "moduleTitle": "Crawford",
+        "moduleStatus": {
+          "key": "In review",
+          "displayName": "In review"
+        }
+      },
+      {
+        "moduleGuid": "2184b537-1d9a-40a8-a05b-27ea05fa2dae",
+        "moduleTitle": "Middleton",
+        "moduleStatus": {
+          "key": "In Progress",
+          "displayName": "In Progress"
+        }
+      },
+      {
+        "moduleGuid": "8166c891-110c-438c-adf0-e77ba91b98d1",
+        "moduleTitle": "Heidi",
+        "moduleStatus": {
+          "key": "In review",
+          "displayName": "In review"
+        }
+      },
+      {
+        "moduleGuid": "2804ceed-e4ae-40c6-8853-df66c24fe46a",
+        "moduleTitle": "Letitia",
+        "moduleStatus": {
+          "key": "In Progress",
+          "displayName": "In Progress"
+        }
+      },
+      {
+        "moduleGuid": "696cd3a9-cd35-4ddf-b72b-f0498a3adf39",
+        "moduleTitle": "Witt",
+        "moduleStatus": {
+          "key": "TO DO",
+          "displayName": "TO DO"
+        }
+      },
+      {
+        "moduleGuid": "ec9f03e7-751b-4ec8-81f6-d474c6b7accc",
+        "moduleTitle": "Ada",
+        "moduleStatus": {
+          "key": "DONE",
+          "displayName": "DONE"
+        }
+      },
+      {
+        "moduleGuid": "9dff4922-6ba0-40cb-96d9-501b26070e3b",
+        "moduleTitle": "Pate",
+        "moduleStatus": {
+          "key": "Arguing",
+          "displayName": "Arguing"
+        }
+      },
+      {
+        "moduleGuid": "dcd42649-e56c-404f-b5f0-bee6611ee761",
+        "moduleTitle": "Knox",
+        "moduleStatus": {
+          "key": "In review",
+          "displayName": "In review"
+        }
+      },
+      {
+        "moduleGuid": "0381d622-986b-40ea-be51-5b063c8628cb",
+        "moduleTitle": "Townsend",
+        "moduleStatus": {
+          "key": "Arguing",
+          "displayName": "Arguing"
+        }
+      }
+    ]
+  }
